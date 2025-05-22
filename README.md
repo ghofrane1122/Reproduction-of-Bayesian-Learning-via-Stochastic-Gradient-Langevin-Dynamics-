@@ -16,13 +16,3 @@ The paper evaluated SGLD on three types of models:
 3. **Independent Component Analysis (ICA)** – Uses SGLD with natural gradients to separate latent sources.
 
 ---
-
-## Repository Structure
-
-```bash
-.
-├── notebooks/
-│   ├── Section_5.1_CLEAN.ipynb        # Mixture of Gaussians
-│   ├── Section_5.2_CLEAN.ipynb        # Logistic Regression on a9a dataset
-│   ├── Section_5.3_CLEAN.ipynb        # ICA with SGLD
-├── README.md
