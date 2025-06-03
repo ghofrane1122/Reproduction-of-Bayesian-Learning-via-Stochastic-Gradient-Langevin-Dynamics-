@@ -26,7 +26,6 @@ This implementation reproduces and analyzes three key experiments from the origi
 | `FinalVersionOfSection5_3.ipynb` | ICA (Independent Component Analysis) experiment |
 | `README.md` | Project documentation (this file) |
 
-> The file `sgld_detailed_complete.py` has been removed in the latest commit.
 
 ---
 
